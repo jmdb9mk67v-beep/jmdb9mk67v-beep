@@ -25,16 +25,22 @@
 
 ### 🚀 Featured Works
 
+#### [Portfolio](https://lamnguyen.ca)
+*The Engineering Showcase.*
+- **Concept:** A highly engineered personal brand platform demonstrating mature, professional UI development and a 98% standard of academic excellence.
+- **Details:** Built entirely with modern fluid layouts like CSS Grid and Flexbox, the site features a custom JS-driven 3D-tilt engine for its project cards. Utilizing hardware acceleration, a custom 0.35s cubic-bezier curve, subtle inner light blooms, and a localized #000 pseudo-backdrop, the architecture strictly avoids playful trends to deliver an expensive, highly responsive user experience.
+  
 #### [Mint & Measure](https://lamnguyen.ca/mint_measure)
 *Logic-driven kitchen utility featuring high-performance unit conversion.*
 - **Security:** Implemented a server-side proxy to protect API keys.
 - **AI Integration:** Features a custom Gemini-powered chat interface.
 - **Connectivity:** Real-time data via TheMealDB and Spoonacular APIs.
+- **Cook Mode:** High-contrast "Dark Mode" UI optimized for high-glare environments
 
 #### [Heartland Harmony](https://lamnguyen.ca/heartland_harmony)
 *A premier country music festival showcase.*
 - **Dual Prototype:** Features both Web and App interactive Figma prototypes.
-- **Engineering:** Built with a custom 3D-tilt engine and local grid-fade depth layering.
+- **Concept:** A comprehensive mobile app prototype for a premier country music festival, developed as a specialized UX assignment
 
 #### [Raise Your Vibration](https://raiseyourvibration5.wordpress.com)
 *Spiritual wellness platform focused on high-frequency content.*
